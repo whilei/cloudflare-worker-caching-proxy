@@ -1,0 +1,8 @@
+name = "cloudflare-worker-caching-proxy"
+type = "javascript"
+
+account_id = "b70cc6f40b9e72aab74829e2abed8606"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-02-03"
